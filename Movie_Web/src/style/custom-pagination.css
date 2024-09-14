@@ -1,0 +1,38 @@
+.el-pagination .btn-prev, .el-pagination .btn-next, .el-pagination .el-pager li {
+    color: #333;
+    font-size: 16px; 
+    
+  }
+  
+  .el-pagination .btn-prev:hover, .el-pagination .btn-next:hover, .el-pagination .el-pager li:hover {
+    background-color: #f5f5f5; 
+  }
+  
+  .el-pagination .el-pager li.active {
+    background-color: #409EFF; 
+    color: #fff; 
+  }
+
+.el-pagination .btn-prev, .el-pagination .btn-next, .el-pagination .el-pager li {
+    border: 1px solid #dcdfe6; 
+  }
+  
+  .el-pagination .btn-prev:hover, .el-pagination .btn-next:hover, .el-pagination .el-pager li:hover {
+    border-color: #409EFF; 
+  }
+  
+  .el-pagination .el-pager li.active {
+    border-color: #409EFF; 
+  }
+
+.el-pagination .btn-prev, .el-pagination .btn-next, .el-pagination .el-pager li {
+    border-radius: 4px; 
+  }
+
+.el-pagination {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px; 
+    padding: 10px; 
+    text-align: center;
+  }
